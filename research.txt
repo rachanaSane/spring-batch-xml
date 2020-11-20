@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=UHZbuBvMgwk
+
+https://dzone.com/articles/spring-batch-to-read-from-mongodb-and-generate-xml
+
+https://github.com/muumin/spring-boot-batch-sample/tree/master/src/main/java/sample/batch/config
+
+https://github.com/muumin/spring-boot-batch-sample/tree/master/src/main/java/sample/batch/config
+
+https://itnext.io/batch-processing-large-data-sets-with-spring-boot-and-spring-batch-80b8f8c2411e
+
+https://www.toptal.com/spring/spring-batch-tutorial --- very nice
+
+https://www.baeldung.com/introduction-to-spring-batch
+
+
+
+https://github.com/SoatGroup/json-file-itemwriter -- json writer
+
+https://github.com/iizdebski/SpringBootBatchDBtoXML
+
+https://docs.spring.io/spring-batch/docs/2.0.x/reference/html/whatsNew.html -- very important
+
+https://medium.com/@YounessBout/increase-spring-batch-performance-through-multithreading-b513ca90aeb5
+
+https://www.programmersought.com/article/287513358/
